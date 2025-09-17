@@ -1,4 +1,4 @@
-# BuildWideFromLong Excel Macro
+# BatchXMLPrepperMacro Excel Macro
 
 ## Overview
 This VBA macro transforms a **long/RAW input table** of file references into a **wide output table** suitable for use in Vernon CMS or other batch-processing workflows.  
